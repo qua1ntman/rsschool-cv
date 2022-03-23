@@ -1,8 +1,8 @@
-<img src="Main.jpg" alt="avatar" width="200"/>
-
 # **Mikhail Ashla**
 
-### *<redikfrost@gmail.com>*
+### **Phone:** +375292926599
+### **E-mail:** redikfrost@gmail.com
+### **Telegram:** @MashAMA1973
 
 ## **About myself:**
 - Goals: 
@@ -28,6 +28,21 @@
 ### **Developer tools:**
 - VS code
 - Webstorm
+
+## **Code example**
+#### Write an algorithm that takes an array and moves all of the zeros to the end, preserving the order of the other elements.
+
+	let moveZeros = function (arr) {
+    		arr2 = []
+    		for (i = 0; i<arr.length; i++) {
+        	if (arr[i] === 0) {
+            		arr2.push(arr[i])
+        		}
+    		}
+    		result = arr.filter((item) => item !== 0).concat(arr2)
+    		return result
+	}
+
 
 ## **Last project**
 - Realt app (in progress)
