@@ -1,3 +1,5 @@
+<img src="drawing.jpg" alt="drawing" width="200"/>
+
 # **Mikhail Ashla**
 
 ### *<redikfrost@gmail.com>*
