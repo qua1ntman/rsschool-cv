@@ -1,43 +1,43 @@
-##Mikhail Ashla
+## Mikhail Ashla
 
-###redikfrost@gmail.com
+### <redikfrost@gmail.com>
 
-####About myself:
+#### About myself:
 - Goals: 
 	- Keep learning
 - Experince:
 	- 1+ year of JS
 
-#####Programming languages:
+##### Programming languages:
 - JS
 - HTML
 - CSS
 - PHP
 - Python
 
-#####Frameworks:
+##### Frameworks:
 - Angular
 - React
 - NestJS
 
-#####Version control system:
+##### Version control system:
 - Git
 
-#####Developer tools:
+##### Developer tools:
 - VS code
 - Webstorm
 
-####Last roject
+#### Last roject
 - Realt app (in progress)
 	- <https://github.com/qua1ntman/Realt-app>
 	- <https://github.com/qua1ntman/realt-app-backend>
 	- Angular, Nestjs, PostgresQL
 
-####Education
+#### Education
 - Bachelor of Science (B. S.) (Belarussian State University)
 - Treining in ITechArt (frozen)
 - Additional aducation (Learn-JavaScript-like webpages, youtube, tasks on Codevars, interview test tasks)
 
-####English skills
+#### English skills
 - B1+ level
 - I practice English generally on interview, sometimes talking with friends
