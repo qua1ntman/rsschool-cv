@@ -1,4 +1,4 @@
-<img src="drawing.jpg" alt="drawing" width="200"/>
+<img src="Main.jpg" alt="avatar" width="200"/>
 
 # **Mikhail Ashla**
 
