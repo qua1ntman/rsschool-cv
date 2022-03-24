@@ -1,3 +1,5 @@
+<img src="Main.jpg" alt="main" width="200"/>
+
 # **Mikhail Ashla**
 
 ### **Phone:** +375292926599
