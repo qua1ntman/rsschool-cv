@@ -37,7 +37,12 @@
 	let moveZeros = function (arr) {
 		arr2 = []
 		for (i = 0; i<arr.length; i++) {
-			if (arr[i] === 0) {
+        	if (arr[i] === 0) {
+            		arr2.push(arr[i])
+        		}
+    		}
+    		result = arr.filter((item) => item !== 0).concat(arr2)
+    		return result
 				arr2.push(arr[i])
 			}
 		}
